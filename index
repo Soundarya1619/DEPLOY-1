@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Resume </h1>
+</head>
+<body>
+    <h1>s.soundarya</h1>
+    <p>mbl.no.:xxxxxxxxxxx</p>
+    <p>email.id:xxxxxxxxxx</p>
+    <hr>
+    <h2>Educational details</h2>
+    <p>College</p>
+    <p>Intermediate</p>
+    <p>School</p>
+    <hr>
+    <h2>skills</h2>
+    <p>Skill 1</p>
+    <p>Skill 2</p>
+    <p>Skill 3</p>
+    <hr>
+<h2>Hobbies</h2>
+<p>hobby 1</p>
+<p>hobby 2</p>
+<p>hobby 3</p>
+<hr>
+<h2>Address</h2>
+<pre>
+    door.no:xxxx
+    street.no:xxxx
+    pincode:xxxx
+</pre>
+</body>
+</html>
